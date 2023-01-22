@@ -11,6 +11,7 @@ special = list(string.punctuation)
 
 # selecting pw requirement
 choices = [0, 1, 2, 3, 4]
+# custom possible char
 availableChar = []
 
 # ask for pw length
