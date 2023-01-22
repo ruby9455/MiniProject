@@ -3,7 +3,7 @@
 import random
 import string
 
-# diffent list of available combinations
+# diffent lists of available combinations
 upper = list(string.ascii_uppercase)
 lower = list(string.ascii_lowercase)
 nums = [str(i) for i in range(10)]
